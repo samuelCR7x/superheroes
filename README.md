@@ -6,7 +6,7 @@ Objetivo
 
 Aprender a diseñar sistemas usando clases, herencia, encapsulamiento y métodos mágicos. También aplicamos control de versiones usando Git y GitHub de manera colaborativa.
 
-#Estructura del proyecto
+Estructura del proyecto
 
 personajes.py: Contiene las clases Personaje,Superheroe y Villano
 main.py: Script principal para probar el sistema
