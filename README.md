@@ -20,7 +20,8 @@ Tecnologías
 Integrantes
 
 - Samuel Castaño 
-- Sebastian Rodriguez
+- Sebastian Rodriguez.
+-Dilan Chavéz
 
 Cómo usar
 
